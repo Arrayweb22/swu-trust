@@ -1,0 +1,8 @@
+fastapi
+strawberry-graphql
+uvicorn
+sqlite3
+python-dotenv
+streamlit
+requests
+streamlit-authenticator==0.1.5
