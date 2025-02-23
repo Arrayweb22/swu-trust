@@ -1,8 +1,10 @@
+# Backend Dependencies
 fastapi
 strawberry-graphql
 uvicorn
-sqlite3
 python-dotenv
+
+# Frontend Dependencies
 streamlit
-requests
 streamlit-authenticator==0.1.5
+
