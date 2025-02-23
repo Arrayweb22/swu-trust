@@ -1,3 +1,11 @@
+import sys
+import os
+
+# Add 'frontend' to Python path
+sys.path.append(os.path.join(os.path.dirname(__file__), "frontend"))
+
+
+
 import streamlit as st
 from login import show_login
 from dashboard import show_dashboard
